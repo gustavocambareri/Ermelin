@@ -22,3 +22,9 @@ canvas {
   justify-content: center;
   height: 100vh;
 }
+
+@media (max-width: 400px) {
+  .titolo {
+    font-size: 1.5em;
+  }
+}
